@@ -5,7 +5,7 @@ In mathematics, the factorial of a non-negative integer n, denoted by n!, is the
 
 ### For example,
 ```
-5!=5\times 4\times 3\times 2\times 1=120.\ 
+5! = 5 x 4 x 3 x 2 x 1 = 120 
 ```
 
 ### 1. cd to path Factorial_Go
