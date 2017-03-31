@@ -8,5 +8,5 @@ import (
 
 func main() {
 	num := 5
-	fmt.Printf("%d! = %d\n", num, factorial.Factorial(5))
+	fmt.Printf("%d! = %d\n", num, factorial.Factorial(num))
 }
